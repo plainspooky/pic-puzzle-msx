@@ -1,0 +1,25 @@
+# Edtor configuration, see https://editorconfig.org
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[Makefikle]
+indent_style = tab
+indent_size = 4
+
+[*.py]
+indent_size = 2
+
+[*.bas]
+charset = latin1
+max_line_length = off
+insert_final_newline = false
+end_of_line = crlf
+
+[*.md]
+max_line_length = off
+trim_trailing_whitespace = false
