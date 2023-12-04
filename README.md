@@ -37,7 +37,11 @@ This version doesn't support joysticks.
 For disk drives, just put the game's disk in the drive, turn the computer
 on, and wait while it is automatically executed. For harddisks, memory
 cards or memory sticks, simply copy all files to it and run
-`BASIC AUTOEXEC.BAS` on MSX-DOS or run `RUN "AUTOEXEC.BAS"` on MSX-BASIC. 
+`BASIC AUTOEXEC.BAS` on MSX-DOS or run `RUN "AUTOEXEC.BAS"` on MSX-BASIC.
+
+You can also
+[run](https://webmsx.org?MACHINE=MSX2A&DISK=https://github.com/plainspooky/pic-puzzle-msx/releases/download/v0.1/PicPuzzle.2023.Crunchworks.zip)
+it using [WebMSX](https://github.com/ppeccin/WebMSX).
 
 ### Playing
 Use the arrow keys to select and `«ENTER»` to select.During the puzzle
